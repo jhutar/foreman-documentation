@@ -3,3 +3,4 @@
 
 {Project} comes with a number of components that communicate with each other.
 You can tune these components independently of each other to achieve the maximum possible performance for your scenario.
+These tunings can be used both with Red Hat Enterprise Linux 7 and Red Hat Enterprise Linux 8 as we have seen no significant difference in performance.
